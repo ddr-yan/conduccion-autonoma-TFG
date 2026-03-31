@@ -12,7 +12,7 @@ El trabajo desarrolla un sistema de conducción autónoma capaz de operar en ent
 
 Se implementa un modelo dinámico vehicular validado en simulación, junto con un sistema de percepción encargado de estimar variables relevantes como desviación lateral, ángulo de conducción y distancia a otros vehículos.
 
-Posteriormente, se entrena un agente que aprende a mantenerse dentro del carril, evitar colisiones y regular la velocidad, incorporando criterios de seguridad durante la toma de decisiones :contentReference[oaicite:0]{index=0}.
+Posteriormente, se entrena un agente que aprende a mantenerse dentro del carril, evitar colisiones y regular la velocidad, incorporando criterios de seguridad durante la toma de decisiones.
 
 ---
 
@@ -47,7 +47,7 @@ El sistema fue evaluado completamente en simulación, mostrando un desempeño es
 - Error máximo de ángulo: **0.28 rad**  
 - Capacidad de mantener carril y evitar colisiones  
 
-Los resultados evidencian que el agente aprende comportamientos seguros en entornos controlados :contentReference[oaicite:1]{index=1}.
+Los resultados evidencian que el agente aprende comportamientos seguros en entornos controlados.
 
 ---
 
